@@ -1,0 +1,9 @@
+{
+    "auth": {
+        "flipsy": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    }
+}
