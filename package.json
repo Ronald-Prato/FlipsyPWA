@@ -12,7 +12,7 @@
     "react-card-flip": "^0.8.1",
     "react-dom": "^16.10.2",
     "react-input-mask": "^2.0.4",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.4.0"
   },
   "scripts": {
